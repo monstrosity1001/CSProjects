@@ -1,0 +1,9 @@
+#* java -ea ataxx.Main
+#Checking if the AI will register one Valid move and adequently move there
+block b5
+block b4
+block c5
+block c4
+block d5
+block d4
+dump

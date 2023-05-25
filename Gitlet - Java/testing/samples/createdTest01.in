@@ -1,0 +1,50 @@
+# A test that I have created
+# Power. Up. Power.
+
+# I was actually two years old
+# when I was given my first go-kart.
+
+# Power, power, power, power!
+# Run! Run! Come on. Push, push, push.
+
+# My name is Carlos Sainz,
+# I drive for Renault Sport Formula One.
+
+# Faster feet. Come on.
+# Faster, faster, faster...
+
+# Born in Madrid, Spain.
+
+# Smash it against the wall.
+# Come on.
+
+# When I was nine years old,
+
+# I remember seeing Fernando Alonso
+# winning the World Championship.
+
+# In 2005, I meet Fernando Alonso
+# in the Spanish Grand Prix.
+
+# I remember going back home
+# and saying to my dad,
+
+# I want to be like Fernando Alonso.
+
+# I want to be a Formula One driver."
+
+# I hope one day I can add my name
+# to the list of Spanish drivers
+
+> init
+<<<
++ wug.txt wug.txt
+> add wug.txt
+<<<
+> commit "added wug"
+<<<
++ wug.txt notwug.txt
+# Must change
+> checkout -- wug.txt
+<<<
+= wug.txt wug.txt

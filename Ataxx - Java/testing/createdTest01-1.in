@@ -1,0 +1,10 @@
+#* java -ea ataxx.Main
+# Checking if one play moves successfully against a block
+manual red
+manual blue
+block a6
+a7-b7
+g7-e7
+b7-d6
+dump
+quit
